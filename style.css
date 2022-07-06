@@ -273,6 +273,7 @@ font-family: 'Lobster', cursive;
 .for-image{
   box-shadow: 10px 10px 30px gray;
   border:1px solid green;
+
 }
 .quickSelect{
   text-align:center;
@@ -280,4 +281,52 @@ font-family: 'Lobster', cursive;
   background-color:darkgreen;
   text-decoration:underline;
   
+}
+
+
+
+
+
+
+.container-div{
+  height:300px;
+  width:600px;
+  background-color:pink;
+ display:flex;
+  justify-content: center;
+  align-items: center;
+
+  
+  
+
+}
+.main-container-div{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:50px;
+
+
+
+}
+.take-info{
+  border:none;
+  padding:15px;
+  width:400px;
+  
+
+}
+.click-btn{
+  border:none;
+  padding:15px;
+  position:absolute;
+  right:0;
+  bottom:0;
+  right:0;
+  background-color:brown;
+  color:white;
+ 
+}
+.label-btn{
+  position:relative;
 }
