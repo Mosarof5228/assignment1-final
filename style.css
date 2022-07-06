@@ -97,7 +97,7 @@ body{
  display:flex;
  margin-left:auto;
  margin-top:70px;
- margin-left:300px;
+ margin-left:35%;
  
 }
 
@@ -110,7 +110,8 @@ body{
 #input-area{
   border-style:none;
   margin-top:70px;
-  margin-left:470px;
+  margin-left:50%;
+  
 }
 .donation-tittle{
   font-size:40px;
@@ -153,7 +154,8 @@ body{
 }
 #food-icon{
   margin-right:270px;
-  margin-top:10px;
+  margin-top:15px;
+  margin-left:10px;
 }
 
 .update-section{
@@ -261,7 +263,7 @@ font-family: 'Lobster', cursive;
 .personal-container{
   margin-top:50px;
   display:flex;
-  justify-content: space-between;
+  justify-content:space-evenly;
 }
 .for-image img{
   height:300px;
