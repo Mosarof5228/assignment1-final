@@ -207,12 +207,13 @@ body{
 }
 .footer-tittle{
 color:rgb(226, 11, 11);
-font-family:'Roboto', sans-serif;
+font-family: 'Lobster', cursive;
 
 
 }
 .footer-text{
   color:white;
+  font-size:small;
  
 }
 #all-message{
