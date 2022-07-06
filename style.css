@@ -4,9 +4,9 @@ font-family: 'Roboto', sans-serif;
 
 }
 .header-container{
-  background-image: url(/images/donation1.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image:url(images/donation1.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
   height:800px;
   /* background-attachment:fixed; */
   position:relative;
