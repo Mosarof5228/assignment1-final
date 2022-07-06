@@ -238,3 +238,44 @@ font-family: 'Lobster', cursive;
 }
 
 
+#departmentt{
+  text-decoration:none;
+  border:1px solid green;
+  padding:5px 10px;
+  background-color:pink;
+
+}
+.personal-tittle{
+  font-size:25px;
+}
+
+.description{
+  height:300px;
+  width:50%;
+  border:5px solid yellowgreen;
+  padding:40px;
+  box-shadow:10px 10px 40px gray;
+
+}
+
+.personal-container{
+  margin-top:50px;
+  display:flex;
+  justify-content: space-between;
+}
+.for-image img{
+  height:300px;
+  width:300px;
+  
+}
+.for-image{
+  box-shadow: 10px 10px 30px gray;
+  border:1px solid green;
+}
+.quickSelect{
+  text-align:center;
+  color:white;
+  background-color:darkgreen;
+  text-decoration:underline;
+  
+}
